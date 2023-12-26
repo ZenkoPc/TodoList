@@ -1,0 +1,12 @@
+body{
+    background-color: #111212;
+}
+
+.todoapp{
+    background-color: #555555;
+    border-radius: 10px;
+}
+
+.todoapp div label{
+    color: #fff;
+}
